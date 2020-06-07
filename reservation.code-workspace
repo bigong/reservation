@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\my-first-app"
+		},
+		{
+			"path": "..\\..\\..\\tools\\Apache24\\htdocs\\mf_error_test"
+		},
+		{
+			"path": "..\\references\\paper-kit-2-angular-master"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
