@@ -28,4 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # reservation
 
 # ２０２６・０１・３１追加テスト
-# git -add (Stage後)に追加した行
+# git -add (Stage後)に追加した行あ
